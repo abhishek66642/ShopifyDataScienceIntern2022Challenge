@@ -1,4 +1,4 @@
-# Shopify-Data-Science-Internship-Challenge
+# Shopify Data Science Internship 2022 Challenge
 
 Please complete the following questions, and provide your thought process/work. You can attach your work in a text file, link, etc. on the application page. Please ensure answers are easily visible for reviewers!
 
