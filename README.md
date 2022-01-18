@@ -1,0 +1,1 @@
+# ShopifyDataScienceIntern2022Challenge
